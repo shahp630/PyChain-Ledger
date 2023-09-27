@@ -6,13 +6,13 @@ You’re a fintech engineer who’s working at one of the five largest banks in 
 You’ll make the following updates to the provided Python file for this assignment, which already contains the basic PyChain ledger structure that you created throughout the module:
 
 
-Create a new data class named Record. This class will serve as the blueprint for the financial transaction records that the blocks of the ledger will store.
+# Create a new data class named Record. This class will serve as the blueprint for the financial transaction records that the blocks of the ledger will store.
 
 
-Modify the existing Block data class to store Record data.
+# Modify the existing Block data class to store Record data.
 
 
-Add Relevant User Inputs to the Streamlit interface.
+# Add Relevant User Inputs to the Streamlit interface.
 
 
-Test the PyChain Ledger by Storing Records.
+# Test the PyChain Ledger by Storing Records.
