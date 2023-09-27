@@ -25,8 +25,11 @@ You’ll make the following updates to the provided Python file for this assignm
 
 ![Screenshot (63)](https://github.com/shahp630/PyChain-Ledger/assets/133065460/fbf6ee9f-2213-40a5-b8ad-9ab0663c1081)
 
+## The PyChain Ledger
 ![Screenshot (64)](https://github.com/shahp630/PyChain-Ledger/assets/133065460/b4640f34-5d68-41e8-98a6-1b77eaca5da5)
 
+## Block Inspector
 ![Screenshot (65)](https://github.com/shahp630/PyChain-Ledger/assets/133065460/4dcc5404-b5bb-44bf-9d27-1986013d2d04)
 
+## Validate the Chain
 ![Screenshot (66)](https://github.com/shahp630/PyChain-Ledger/assets/133065460/4e0739c8-194e-4cfd-8294-2ebdf51bc338)
